@@ -39,3 +39,8 @@ sudo make start
 - Update Samsung firmware with a Windows machine
 - Wait for newer Linux kernels to arrive. E.g., there will be an Ubuntu 25.04 2025 release on April 17th which will use the Linux 6.14 kernel. 
 - Try a different SSD, maybe from a different brand. SSDs only cost ~$100 these days, though the cost is also in the time to install programs and move files to a new drive.
+
+## Other ressources
+
+- [Arch Linux Wiki](https://wiki.archlinux.org/title/Solid_state_drive/NVMe#Power_Saving_(APST))
+- [How I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/): "It should be hitting stable Linux kernel 6.14 in 2025".
